@@ -2,6 +2,7 @@
   "name": "globex-reengineering-landing-page",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://bernardky.github.io/globex-reengineering-website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
