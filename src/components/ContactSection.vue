@@ -88,9 +88,7 @@
                 </div>
                 <div>
                   <h5 class="text-lg font-semibold mb-6">Email</h5>
-                  <p class="text-base text-body-color">
-                    info@globexreengineering.com
-                  </p>
+                  <p class="text-base text-body-color">sales@globex.com.my</p>
                 </div>
               </div>
             </div>

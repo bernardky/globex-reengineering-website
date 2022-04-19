@@ -366,7 +366,7 @@
               <div class="text-center">
                 <div class="relative inline-block z-10">
                   <img
-                    src="../assets/images/water filters selection.jpg"
+                    src="../assets/images/filter-1.png"
                     alt="image"
                     class="mx-auto lg:ml-auto"
                   />

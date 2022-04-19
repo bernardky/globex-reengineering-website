@@ -4,19 +4,19 @@
       <div class="w-full md:w-1/2 md:pr-4 flex flex-wrap mb-12 md:mb-0">
         <div class="p-2 w-1/2">
           <img
-            src="../assets/images/Picture 6.jpg"
+            src="../assets/images/picture-6.png"
             class="w-full h-64 object-cover"
           />
         </div>
         <div class="p-2 w-1/2">
           <img
-            src="../assets/images/Picture 7.jpg"
+            src="../assets/images/picture-7.png"
             class="w-full h-64 object-cover"
           />
         </div>
         <div class="p-2 w-full">
           <img
-            src="../assets/images/Picture 1.jpg"
+            src="../assets/images/picture-1.png"
             class="w-full h-64 object-cover"
           />
         </div>
