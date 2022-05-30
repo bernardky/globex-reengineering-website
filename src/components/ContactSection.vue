@@ -38,8 +38,8 @@
                 </div>
                 <div>
                   <h5 class="text-lg font-semibold mb-6">Contact Number</h5>
-                  <p class="text-base text-body-color">Tel: +604-5885949</p>
-                  <p class="text-base text-body-color">Fax: +604-5885948</p>
+                  <p class="text-base text-body-color">Tel: +604-584 2232</p>
+                  <p class="text-base text-body-color">Fax: +604-240 0541</p>
                   <p class="text-base text-body-color">HP: +6012-4775949</p>
                 </div>
               </div>

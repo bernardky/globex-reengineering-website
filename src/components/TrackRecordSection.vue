@@ -35,9 +35,9 @@
                 (IETS) for Industry
               </h2>
               <h3 class="font-medium text-lg text-gray-600 pt-4">
-                We design, supply, install new(or upgrade existing) reverse
-                osmosis water system and IETS system for size ranging from 5mᶟ
-                to 52mᶟ applications.
+                We design, supply, install new (or upgrade existing) RO water
+                system, DI water system and IETS for any size to suit our
+                customer requirement.
               </h3>
 
               <div class="my-4">
@@ -101,8 +101,8 @@
                 Centres)
               </h2>
               <h3 class="font-medium text-lg text-gray-600 mt-4">
-                Increase RO product flow from 4 LPM to 8 LPM as well as between
-                8 bedded - 25 bedded applications
+                We design, supply, install new (or upgrade existing) RO water
+                systems for any size to suit our customer requirement.
               </h3>
 
               <div class="mt-6 lg:flex flex-col items-start">

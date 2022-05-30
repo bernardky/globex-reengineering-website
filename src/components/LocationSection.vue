@@ -9,7 +9,13 @@
       >
         <div class="max-w-lg mx-auto">
           <h2 class="text-2xl text-gray-900 sm:text-3xl">Our Location</h2>
-          <p class="mt-3 text-lg text-gray-500">
+          <p class="mt-3 text-lg">Main address:</p>
+          <p class="mt-3 text-md text-gray-500">
+            No.5, Lorong Asas Jaya 15, Kawasan Industri Ringan Asas Jaya, 14000
+            Bukit Mertajam, Pulau Pinang
+          </p>
+          <p class="mt-3 text-lg">Address 2:</p>
+          <p class="mt-3 text-md text-gray-500">
             No 16, Lorong Asas Murni 5 Kawasan Perniagaan Asas Murni 14000 Bukit
             Mertajam Pulau Pinang Malaysia
           </p>

@@ -8,7 +8,7 @@
           <router-link :to="{ name: 'Home' }">
             <span class="sr-only">Globex Reengineering</span>
             <img
-              class="h-14 w-auto sm:h-20"
+              class="h-16 w-auto sm:h-24"
               src="../assets/logo/globex-reengineering-logo.png"
               alt=""
             />

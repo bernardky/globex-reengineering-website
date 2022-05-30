@@ -75,7 +75,16 @@
                   aria-hidden="true"
                 />
                 <p class="ml-9 text-lg font-medium text-gray-900">
-                  Waste Water System
+                  Waste Water System (IETS)
+                </p>
+              </div>
+              <div class="py-2">
+                <CheckIcon
+                  class="absolute h-6 w-6 text-green-500"
+                  aria-hidden="true"
+                />
+                <p class="ml-9 text-lg font-medium text-gray-900">
+                  Portable Mixed Bed Column Regeneration Service
                 </p>
               </div>
               <div class="py-2">
@@ -94,15 +103,6 @@
                 />
                 <p class="ml-9 text-lg font-medium text-gray-900">
                   Piping Work
-                </p>
-              </div>
-              <div class="py-2">
-                <CheckIcon
-                  class="absolute h-6 w-6 text-green-500"
-                  aria-hidden="true"
-                />
-                <p class="ml-9 text-lg font-medium text-gray-900">
-                  Trading of Safety and Health Equipment
                 </p>
               </div>
             </div>
