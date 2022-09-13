@@ -1,12 +1,13 @@
 <template>
-  <HeroSection />
-  <FeaturesSection />
-  <AboutUsSection />
-  <TrackRecordSection />
-  <TestimonialSection />
-  <ContactSection id="contact" />
-  <LocationSection />
+    <HeroSection class="section" />
+    <FeaturesSection class="section" />
+    <AboutUsSection class="section" />
+    <TrackRecordSection class="section" />
+    <TestimonialSection class="section" />
+    <ContactSection class="section" id="contact" />
+    <LocationSection class="section" />
 </template>
+
 <script setup>
 import HeroSection from "../components/HeroSection.vue";
 import FeaturesSection from "../components/FeaturesSection.vue";
