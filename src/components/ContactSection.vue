@@ -3,7 +3,7 @@
         <div
             class="absolute z-[-1] w-full h-1/2 lg:h-[40%] xl:h-2/5 bg-[#f3f4fe] top-0 left-0"
         ></div>
-        <div data-aos="fade-up" class="container px-4">
+        <div data-aos="fade-up" data-aos-duration="1000" class="container px-4">
             <div class="flex flex-wrap items-center -mx-4">
                 <div class="px-4 w-full lg:w-7/12 xl:w-8/12">
                     <div class="ud-contact-content-wrapper">

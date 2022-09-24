@@ -1,7 +1,7 @@
 <template>
     <div class="h-screen pb-24 px-12">
         <div class="container mx-auto flex flex-wrap items-center">
-            <div data-aos="fade-up" class="w-full md:w-1/2 md:pr-4 flex flex-wrap mb-12 md:mb-0">
+            <div data-aos="fade-up" data-aos-duration="1000" class="w-full md:w-1/2 md:pr-4 flex flex-wrap mb-12 md:mb-0">
                 <div class="p-2 w-1/2">
                     <img src="../assets/images/picture-6.png" class="w-full h-64 object-cover" />
                 </div>
@@ -12,7 +12,7 @@
                     <img src="../assets/images/picture-1.png" class="w-full h-64 object-cover" />
                 </div>
             </div>
-            <div data-aos="fade-up" class="w-full md:w-1/2 md:pl-4">
+            <div data-aos="fade-up" data-aos-duration="1000" class="w-full md:w-1/2 md:pl-4">
                 <h2 class="text-5xl mb-10">About Us</h2>
                 <p class="text-xl mb-6">
                     We have extensive experience in providing a great variety of products and

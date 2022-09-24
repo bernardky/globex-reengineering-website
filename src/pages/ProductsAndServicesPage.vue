@@ -1,5 +1,71 @@
 <template>
   <div class="bg-white pb-8 sm:pb-12 lg:pb-12">
+     <div class=" w-full mx-auto px-4 sm:px-6">
+                <div
+                    data-aos="fade-up"
+                    class="text-black flex justify-between items-center border-gray-100 pb-6 md:justify-start md:space-x-10"
+                >
+                    <div class="flex justify-start lg:w-0 lg:flex-1">
+                        <router-link :to="{ name: 'Home' }">
+                            <span class="sr-only">Globex Reengineering</span>
+                            <img
+                                class="h-12 mt-3 w-auto sm:h-24"
+                                src="../assets/logo/globex-reengineering-logo.png"
+                                alt=""
+                            />
+                        </router-link>
+                    </div>
+                    <div class="-mr-2 -my-2 md:hidden">
+                        <PopoverButton
+                            class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
+                        >
+                            <span class="sr-only">Open menu</span>
+                            <MenuIcon class="h-6 w-6" aria-hidden="true" />
+                        </PopoverButton>
+                    </div>
+                    <PopoverGroup as="nav" class="hidden md:flex space-x-10">
+                        <router-link
+                            :to="{ name: 'Home' }"
+                            class="text-lg hover:text-primary pb-1 link-underline"
+                        >
+                            <p>Home</p>
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'Home', hash: '#about' }"
+                            class="text-lg hover:text-primary pb-1 link-underline"
+                        >
+                            About
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'Products and Services' }"
+                            class="text-lg hover:text-primary pb-1 link-underline"
+                        >
+                            Products and Services
+                        </router-link>
+                        <router-link
+                            :to="{ name: 'Project Gallery' }"
+                            class="text-lg hover:text-primary pb-1 link-underline"
+                        >
+                            Gallery
+                        </router-link>
+
+                        <router-link
+                            :to="{ name: 'Home', hash: '#contact' }"
+                            class="text-lg hover:text-primary pb-1 link-underline"
+                        >
+                            Contact
+                        </router-link>
+                    </PopoverGroup>
+                    <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
+                        <router-link
+                            :to="{ name: 'Home', hash: '#contact' }"
+                            class="transition-colors duration-500 ease-in-out ml-8 whitespace-nowrap inline-flex items-center justify-center px-6 py-2 border border-transparent rounded-md shadow-sm text-lg font-medium text-white bg-primary hover:bg-dark"
+                        >
+                            Get a Quote
+                        </router-link>
+                    </div>
+                </div>
+            </div>
     <div class="pt-8 overflow-hidden sm:pt-12 lg:relative lg:py-48">
       <div
         class="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl lg:grid lg:grid-cols-2 lg:gap-24"

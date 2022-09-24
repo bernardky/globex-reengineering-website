@@ -2,7 +2,7 @@
     <div class="bg-white h-screen">
         <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-48 lg:px-8">
             <div class="max-w-4xl mx-auto text-center pb-12">
-                <h2 data-aos="fade-up" class="text-5xl font-extrabold text-gray-900">
+                <h2 data-aos="fade-up" data-aos-duration="1000" class="text-5xl font-extrabold text-gray-900">
                     Your one stop solution provider for water treatment and filtration system.
                 </h2>
                 <!-- <p class="mt-4 text-lg text-gray-500">some description goes here</p> -->
@@ -14,6 +14,7 @@
                 <div class="mt-12">
                     <div
                         data-aos="fade-up"
+                        data-aos-duration="1000"
                         class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3"
                     >
                         <div v-for="feature in featureList" :key="feature.name" class="pt-6">

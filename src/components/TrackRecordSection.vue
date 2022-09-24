@@ -1,6 +1,6 @@
 <template>
     <div class="max-w-7xl mx-auto py-8 px-4 sm:py-12 sm:px-6 lg:px-8">
-        <div data-aos="fade-up" class="text-center">
+        <div data-aos="fade-up" data-aos-duration="1000" class="text-center">
             <!-- <h2
           class="text-base font-semibold tracking-wide uppercase text-indigo-600"
         >
@@ -13,12 +13,13 @@
         </div>
     </div>
 
-    <div data-aos="fade-up" class="relative bg-white pt-4 pb-12 overflow-hidden">
+    <div data-aos="fade-up" data-aos-duration="1000" class="relative bg-white pt-4 pb-12 overflow-hidden">
         <div
             class="lg:mx-auto lg:max-w-7xl xl:max-w-none xl:w-full lg:pl-8 lg:grid lg:grid-cols-2 lg:grid-flow-col-dense lg:gap-24"
         >
             <div
                 data-aos="fade-up"
+                data-aos-duration="1000"
                 class="px-4 max-w-xl mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0"
             >
                 <div>

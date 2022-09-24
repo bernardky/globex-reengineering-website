@@ -1,5 +1,5 @@
 <template>
-    <div data-aos="fade-up" class="relative bg-white">
+    <div data-aos="fade-up" data-aos-duration="1000" class="relative bg-white">
         <div class="absolute inset-0">
             <div class="absolute inset-y-0 left-0 w-1/2" />
         </div>

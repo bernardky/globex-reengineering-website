@@ -5,6 +5,7 @@
                 <div class="w-full mx-4">
                     <div
                         data-aos="fade-up"
+                        data-aos-duration="1000"
                         class="text-center mx-auto mb-[60px] lg:mb-20 max-w-[620px]"
                     >
                         <span class="font-semibold text-lg text-primary mb-2 block">
@@ -38,7 +39,7 @@
                 </div>
             </div>
 
-            <div data-aos="fade-up" class="flex flex-wrap">
+            <div data-aos="fade-up" data-aos-duration="1000" class="flex flex-wrap">
                 <div class="w-full md:w-1/2 lg:w-1/3 px-4">
                     <div
                         class="ud-single-testimonial p-8 bg-white mb-12 shadow-testimonial wow fadeInUp"

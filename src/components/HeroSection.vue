@@ -57,6 +57,7 @@
             <div class="absolute w-full mx-auto px-4 sm:px-6">
                 <div
                     data-aos="fade-up"
+                    data-aos-duration="1000"
                     class="text-white flex justify-between items-center border-gray-100 pb-6 md:justify-start md:space-x-10"
                 >
                     <div class="flex justify-start lg:w-0 lg:flex-1">
@@ -196,6 +197,7 @@
             <div class="absolute center-title sm:text-center lg:text-center">
                 <h1
                     data-aos="fade-up"
+                    data-aos-duration="1000"
                     class="text-4xl tracking-tight font-extrabold sm:text-5xl md:text-6xl"
                 >
                     <span class="block xl:inline uppercase"
@@ -204,12 +206,14 @@
                 </h1>
                 <p
                     data-aos="fade-up"
+                    data-aos-duration="1000"
                     class="mt-3 text-base sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl"
                 >
                     Water Treatment Supplier and Service Provider
                 </p>
                 <div
                     data-aos="fade-up"
+                    data-aos-duration="1000"
                     class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-center"
                 >
                     <div class="rounded-md shadow">
@@ -245,10 +249,9 @@
 <script setup>
 import { Popover, PopoverButton, PopoverPanel } from "@headlessui/vue";
 import { MenuIcon, XIcon } from "@heroicons/vue/outline";
-import "../main.css";
-import { onMounted } from "vue";
 import AOS from "aos";
-import VueFullPage from "vue-fullpage.js";
+import { onMounted } from "vue";
+import "../main.css";
 
 onMounted(() => {
     AOS.init();
